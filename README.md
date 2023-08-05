@@ -1,5 +1,6 @@
 # 2023 Research Experience for High School Students Project 
-## Project Title: Developing Interactive Jupyter Notebooks to run on the “AI institute for Intelligent Cyberinfrastructure with Computational Learning in the Environment” (ICICLE) project.![image](https://github.com/sdsc-hpc-students/REHS2023/assets/14170808/547d3091-1c0f-4f83-b94f-edd2d24c59e4)
+## Project Title: Developing Interactive Jupyter Notebooks to run on the “AI institute for Intelligent Cyberinfrastructure with Computational Learning in the Environment” (ICICLE) project.
+
 
 
 **Part of the 2023 Research Experience for High School Students Program:**  https://education.sdsc.edu/studenttech/rehs/
