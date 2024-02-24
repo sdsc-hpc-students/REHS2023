@@ -48,7 +48,6 @@ Prior to beginning the REHS program, the selected student team members will be p
 * Some previous experience in: Jupyter Notebooks; some exposure to Artificial Intelligence (AI) methods
 * Programming in Python (preferred).
 * Exposure to the Linux/Unix operating system.
-  ![image](https://github.com/sdsc-hpc-students/REHS2023/assets/14170808/57247d9d-88cf-48ea-a10f-6bb56fecf5ee)
 
 
 
